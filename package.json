@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@hospital/shared": "0.1.0",
+    "@hospital/shared": "file:./shared",
     "@types/jspdf": "^1.3.3",
     "jspdf": "^4.2.1",
     "next": "^15.5.15",
